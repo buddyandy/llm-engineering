@@ -65,7 +65,7 @@ Notes
 
     Navigation-related text is intentionally ignored in summaries
 
-text
+
 
 
 
